@@ -29,7 +29,7 @@ const categories = document.querySelectorAll(".category h4");
 
 // months are zero index based and the clock is 0-24
 // here we are inputing our exact future date
-let updatedDate = new Date(2023, 11, 18, 11, 59, 00);
+let updatedDate = new Date(2024, 11, 18, 11, 59, 00);
 // console.log(updatedDate);
 
 //
